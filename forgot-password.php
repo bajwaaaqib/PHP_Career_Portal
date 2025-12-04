@@ -12,12 +12,12 @@ $success = '';
 $email = '';
 
 // ================= SMTP CONFIGURATION =================
-define('SMTP_HOST', 'smtp.zoho.com');
+define('SMTP_HOST', 'mail.server');
 define('SMTP_PORT', 587); // TLS
-define('SMTP_USERNAME', 'tech@ardperfumes.com'); // Zoho email
-define('SMTP_PASSWORD', 'uLsKscWY9XJr'); // Use Zoho app password if 2FA enabled
-define('SMTP_FROM_EMAIL', 'tech@ardperfumes.com');
-define('SMTP_FROM_NAME', 'Ard Perfumes Career');
+define('SMTP_USERNAME', 'example@email.com'); // Zoho email
+define('SMTP_PASSWORD', ''); // Use Zoho app password if 2FA enabled
+define('SMTP_FROM_EMAIL', 'example@email.com');
+define('SMTP_FROM_NAME', 'Career');
 define('SMTP_SECURE', 'tls'); // Use 'ssl' if port=465
 
 // ================= FORM SUBMISSION =================
@@ -946,4 +946,5 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 </body>
+
 </html>
