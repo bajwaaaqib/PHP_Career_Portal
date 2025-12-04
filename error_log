@@ -1,0 +1,103 @@
+[03-Dec-2025 22:19:04 America/Boise] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 2
+[03-Dec-2025 22:19:04 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/marcoluc/public_html/ardperfumes/career/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 2
+[03-Dec-2025 22:19:10 America/Boise] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 2
+[03-Dec-2025 22:19:10 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/marcoluc/public_html/ardperfumes/career/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 2
+[03-Dec-2025 22:19:44 America/Boise] PHP Warning:  Undefined variable $host in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 5
+[03-Dec-2025 22:19:44 America/Boise] PHP Warning:  Undefined variable $dbname in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 5
+[03-Dec-2025 22:19:44 America/Boise] PHP Warning:  Undefined variable $username in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 5
+[03-Dec-2025 22:19:44 America/Boise] PHP Warning:  Undefined variable $password in /home1/marcoluc/public_html/ardperfumes/career/index.php on line 5
+[03-Dec-2025 22:24:38 America/Boise] PHPMailer Error: SMTP Error: Could not authenticate.
+[04-Dec-2025 00:18:20 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_EXCEPTION in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 15
+[04-Dec-2025 00:18:24 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_EXCEPTION in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 15
+[04-Dec-2025 00:18:48 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_EXCEPTION in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 12
+[04-Dec-2025 00:18:50 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_EXCEPTION in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 12
+[04-Dec-2025 00:19:21 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_EXCEPTION in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 13
+[04-Dec-2025 00:19:23 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_EXCEPTION in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 13
+[04-Dec-2025 00:23:04 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_SILENT in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 14
+[04-Dec-2025 00:23:06 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_ERRMODE_SILENT in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/forgot-password.php on line 14
+[04-Dec-2025 01:44:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 2
+[04-Dec-2025 01:44:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 2
+[04-Dec-2025 01:44:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 2
+[04-Dec-2025 01:44:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 2
+[04-Dec-2025 01:45:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:45:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:45:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:45:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:46:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function sesstion() in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:47:13 America/Boise] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:47:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:47:30 America/Boise] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:47:30 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:48:13 America/Boise] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:48:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:48:42 America/Boise] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
+[04-Dec-2025 01:48:42 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/marcoluc/public_html/ardperfumes/career/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/login.php on line 6
