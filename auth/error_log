@@ -1,0 +1,81 @@
+[04-Dec-2025 00:59:55 America/Boise] Database error in reset_password: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marcoluc_career.users' doesn't exist
+[04-Dec-2025 00:59:59 America/Boise] Database error in reset_password: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marcoluc_career.users' doesn't exist
+[04-Dec-2025 01:00:02 America/Boise] Database error in reset_password: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marcoluc_career.users' doesn't exist
+[04-Dec-2025 01:06:09 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9) in /home1/marcoluc/public_html/ardperfumes/career/config/database.php on line 2
+[04-Dec-2025 01:06:09 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 49
+[04-Dec-2025 01:06:09 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:07:01 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 45
+[04-Dec-2025 01:07:01 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:07:17 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 45
+[04-Dec-2025 01:07:17 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:07:18 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 45
+[04-Dec-2025 01:07:18 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:07:19 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 45
+[04-Dec-2025 01:07:19 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:07:20 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 45
+[04-Dec-2025 01:07:20 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:07:25 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9) in /home1/marcoluc/public_html/ardperfumes/career/config/database.php on line 2
+[04-Dec-2025 01:07:25 America/Boise] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 49
+[04-Dec-2025 01:07:25 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:11:02 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9) in /home1/marcoluc/public_html/ardperfumes/career/config/database.php on line 2
+[04-Dec-2025 01:11:02 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:11:09 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9) in /home1/marcoluc/public_html/ardperfumes/career/config/database.php on line 2
+[04-Dec-2025 01:11:09 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:11:09 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9) in /home1/marcoluc/public_html/ardperfumes/career/config/database.php on line 2
+[04-Dec-2025 01:11:09 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:11:39 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:11:56 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:12:42 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:14:03 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:14:12 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:14:19 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:17:51 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:17:54 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:17:58 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:18:29 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:18:54 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:19:16 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:21:34 America/Boise] Reset Password PDO Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'marcoluc_career.users' doesn't exist
+[04-Dec-2025 01:22:19 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list'
+[04-Dec-2025 01:22:22 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list'
+[04-Dec-2025 01:23:14 America/Boise] PHP Warning:  Undefined variable $stmt in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 36
+[04-Dec-2025 01:23:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 36
+[04-Dec-2025 01:24:06 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'
+[04-Dec-2025 01:25:15 America/Boise] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 61
+[04-Dec-2025 01:25:18 America/Boise] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 61
+[04-Dec-2025 01:25:20 America/Boise] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 61
+[04-Dec-2025 01:26:35 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:27:13 America/Boise] PHP Warning:  require_once(config/database.php): Failed to open stream: No such file or directory in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 7
+[04-Dec-2025 01:27:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 7
+[04-Dec-2025 01:29:09 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:29:10 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:29:18 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:30:12 America/Boise] Reset Password General Error: Database connection not established!
+[04-Dec-2025 01:30:15 America/Boise] Reset Password General Error: Database connection not established!
+[04-Dec-2025 01:30:17 America/Boise] Reset Password General Error: Database connection not established!
+[04-Dec-2025 01:32:15 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 7) in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9
+[04-Dec-2025 01:32:15 America/Boise] PHP Warning:  Undefined property: PDO::$conn in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 43
+[04-Dec-2025 01:32:15 America/Boise] Reset Password General Error: Database connection not established!
+[04-Dec-2025 01:32:40 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 7) in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9
+[04-Dec-2025 01:32:40 America/Boise] PHP Warning:  Undefined property: PDO::$conn in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 43
+[04-Dec-2025 01:32:40 America/Boise] Reset Password General Error: Database connection not established!
+[04-Dec-2025 01:32:42 America/Boise] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 7) in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 9
+[04-Dec-2025 01:32:42 America/Boise] PHP Warning:  Undefined property: PDO::$conn in /home1/marcoluc/public_html/ardperfumes/career/auth/reset-password.php on line 43
+[04-Dec-2025 01:32:42 America/Boise] Reset Password General Error: Database connection not established!
+[04-Dec-2025 01:33:51 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:34:44 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:34:46 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:34:48 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:34:50 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:35:48 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:36:44 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:36:45 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:37:08 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:39:10 America/Boise] Reset Password PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[04-Dec-2025 01:40:09 America/Boise] Password Update PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'field list'
